@@ -24,8 +24,8 @@ Built with Flutter and Bloc
 
 ## Installing
 
-- Download The app
-- - Open the App in you favorite IDE
+- Clone The Repo
+-  Open the App in you favorite IDE
 - Create a dart file with the name [strings.dart] in lib/constants directory with the following code
 
 ```
